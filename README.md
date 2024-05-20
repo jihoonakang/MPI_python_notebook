@@ -17,7 +17,7 @@
 - Oh-Kyoung Kwon (okkwon@kisti.re.kr), Korea Institute of Science and Technology Information
 
 ## Prerequisite
-1. Python module
+- Python module
   - mpi4py
   - math
   - time
@@ -25,9 +25,9 @@
   - random
   - sklearn
   - matplotlib
-2. MPI library
+- MPI library
   - Window
     [Microsoft MPI](https://www.microsoft.com/en-us/download/details.aspx?id=105289)
   - Linux or Mac
-    [Source build](https://mpi4py.readthedocs.io/en/stable/appendix.html#building-mpi)
+    [Source build](https://mpi4py.readthedocs.io/en/stable/appendix.html#building-mpi) or try your owns with googling.
 
