@@ -15,3 +15,19 @@
 ## Authors
 - Ji-Hoon Kang (jhkang@kisti.re.kr), Korea Institute of Science and Technology Information
 - Oh-Kyoung Kwon (okkwon@kisti.re.kr), Korea Institute of Science and Technology Information
+
+## Prerequisite
+1. Python module
+  - mpi4py
+  - math
+  - time
+  - numpy
+  - random
+  - sklearn
+  - matplotlib
+2. MPI library
+  - Window
+    [Microsoft MPI](https://www.microsoft.com/en-us/download/details.aspx?id=105289)
+  - Linux or Mac
+    [Source build](https://mpi4py.readthedocs.io/en/stable/appendix.html#building-mpi)
+
