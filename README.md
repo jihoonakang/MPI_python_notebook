@@ -18,6 +18,7 @@
 
 ## Prerequisite
 - 파이션 모듈
+  - jupyter-notebook
   - mpi4py
   - math
   - time
