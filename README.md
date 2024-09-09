@@ -1,11 +1,11 @@
 # MPI Python with Jupyter Notebook_2024
 
 ## Content
-- 파이선 병렬프로그래밍: 개론 및 함수 사용법 (KISTI 권오경 박사)
+- 파이선 병렬프로그래밍: 개론 및 함수 사용법
   - Introduction to MPI and mpi4py
   - Function usage
   - Examples
-- 파이선 병렬프로그래밍: 수치 해석 예제 실습 (KISTI 강지훈 박사)
+- 파이선 병렬프로그래밍: 수치 해석 예제 실습
   - Basic linear algebra (vector and matrix)
   - Gram-Schmidt process
   - K-means clustering
@@ -31,4 +31,5 @@
     [Microsoft MPI](https://www.microsoft.com/en-us/download/details.aspx?id=105289)
   - Linux or Mac
     [Source build](https://mpi4py.readthedocs.io/en/stable/appendix.html#building-mpi) 또는 rpm/homebrew 등 패키지 설치 
-
+- Docker image
+  `docker pull jihoona/mpi4py-notebook`
