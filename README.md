@@ -1,4 +1,4 @@
-# CFD_short_course_2024
+# MPI Python with Jupyter Notebook_2024
 
 ## Content
 - 파이선 병렬프로그래밍: 개론 및 함수 사용법 (KISTI 권오경 박사)
