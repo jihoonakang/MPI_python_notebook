@@ -4,3 +4,4 @@
 */.DS_Store
 */*.html
 */*.pdf
+!02_MPI_Python_Numerical_Examples.pdf
