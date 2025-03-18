@@ -33,4 +33,4 @@
     [Source build](https://mpi4py.readthedocs.io/en/stable/appendix.html#building-mpi) 또는 rpm/homebrew 등 패키지 설치 
 - Docker image
   
-  `docker pull jihoona/mpi4py-notebook`
+  `docker pull jihoona/mpi4py-notebook:exercise`
